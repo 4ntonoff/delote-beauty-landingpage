@@ -1,0 +1,71 @@
+body {
+    background-image: url();
+    background-color: #111;
+}
+
+.main-title {
+    font-family: 'Garamond';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 120%;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 80px;
+}
+
+
+
+.prices__element {
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 80px;
+}
+
+.prices__image {
+    width: 636px;
+}
+
+.serve-title {
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    justify-content: space-between;
+    width: 526px;
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 130%;
+    color: #FFFFFF;
+}
+
+.serve-description {
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+    color: #FFFFFF;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.serve-line {
+    width: 526px;
+    opacity: 0.5;
+    height: 1px;
+    background-color: #fff;
+}
+
+.price-list__element {
+    margin: 20px 0;
+}

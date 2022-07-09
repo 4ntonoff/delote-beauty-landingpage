@@ -1,0 +1,45 @@
+body {
+    background-image: url();
+    background-color: #111;
+}
+
+.main-title {
+    font-family: 'Garamond';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 120%;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 80px;
+}
+
+.service__rectangle {
+    width: 400px;
+    height: 477px;
+}
+
+.service__img {
+    width: 400px;
+    height: 477px;
+
+}
+
+.service__text {
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 130%;
+    color: #FFFFFF;
+}
+
+.service__text-small {
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+    color: #FFFFFF;
+    margin-top: 10px;
+}

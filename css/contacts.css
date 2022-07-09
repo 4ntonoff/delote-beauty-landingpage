@@ -1,0 +1,29 @@
+body {
+    background-image: url();
+    background-color: #111;
+}
+
+.main-title {
+    font-family: 'Garamond';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 120%;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 80px;
+}
+
+.contacts__mainimg {
+    margin-top: 80px;
+}
+
+.contacts__data {
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+}
